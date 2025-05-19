@@ -1,0 +1,40 @@
+[2025-05-19 05:18:41] local.INFO: 1 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 2 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 3 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 4 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 5 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 6 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 7 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 8 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 9 Product added into our database  
+[2025-05-19 05:18:42] local.INFO: 10 Product added into our database  
+[2025-05-19 05:18:43] local.INFO: gid://shopify/Product/10037890908476 Product added into shopify  
+[2025-05-19 05:18:44] local.INFO: gid://shopify/Product/10037890941244 Product added into shopify  
+[2025-05-19 05:18:46] local.INFO: gid://shopify/Product/10037890974012 Product added into shopify  
+[2025-05-19 05:18:47] local.INFO: gid://shopify/Product/10037891006780 Product added into shopify  
+[2025-05-19 05:18:49] local.INFO: gid://shopify/Product/10037891039548 Product added into shopify  
+[2025-05-19 05:18:50] local.INFO: gid://shopify/Product/10037891072316 Product added into shopify  
+[2025-05-19 05:18:51] local.INFO: gid://shopify/Product/10037891105084 Product added into shopify  
+[2025-05-19 05:18:53] local.INFO: gid://shopify/Product/10037891137852 Product added into shopify  
+[2025-05-19 05:18:54] local.INFO: gid://shopify/Product/10037891170620 Product added into shopify  
+[2025-05-19 05:18:56] local.INFO: gid://shopify/Product/10037891203388 Product added into shopify  
+[2025-05-19 05:18:57] local.INFO: gid://shopify/Product/10037890908476 Product added into collection  
+[2025-05-19 05:18:59] local.INFO: Media is created for shopify product id gid://shopify/Product/10037890908476  
+[2025-05-19 05:19:00] local.INFO: gid://shopify/Product/10037890941244 Product added into collection  
+[2025-05-19 05:19:01] local.INFO: Media is created for shopify product id gid://shopify/Product/10037890941244  
+[2025-05-19 05:19:02] local.INFO: gid://shopify/Product/10037890974012 Product added into collection  
+[2025-05-19 05:19:04] local.INFO: Media is created for shopify product id gid://shopify/Product/10037890974012  
+[2025-05-19 05:19:05] local.INFO: gid://shopify/Product/10037891006780 Product added into collection  
+[2025-05-19 05:19:06] local.INFO: Media is created for shopify product id gid://shopify/Product/10037891006780  
+[2025-05-19 05:19:08] local.INFO: gid://shopify/Product/10037891039548 Product added into collection  
+[2025-05-19 05:19:09] local.INFO: Media is created for shopify product id gid://shopify/Product/10037891039548  
+[2025-05-19 05:19:11] local.INFO: gid://shopify/Product/10037891072316 Product added into collection  
+[2025-05-19 05:19:12] local.INFO: Media is created for shopify product id gid://shopify/Product/10037891072316  
+[2025-05-19 05:19:13] local.INFO: gid://shopify/Product/10037891105084 Product added into collection  
+[2025-05-19 05:19:14] local.INFO: Media is created for shopify product id gid://shopify/Product/10037891105084  
+[2025-05-19 05:19:15] local.INFO: gid://shopify/Product/10037891137852 Product added into collection  
+[2025-05-19 05:19:17] local.INFO: Media is created for shopify product id gid://shopify/Product/10037891137852  
+[2025-05-19 05:19:18] local.INFO: gid://shopify/Product/10037891170620 Product added into collection  
+[2025-05-19 05:19:19] local.INFO: Media is created for shopify product id gid://shopify/Product/10037891170620  
+[2025-05-19 05:19:20] local.INFO: gid://shopify/Product/10037891203388 Product added into collection  
+[2025-05-19 05:19:22] local.INFO: Media is created for shopify product id gid://shopify/Product/10037891203388  
