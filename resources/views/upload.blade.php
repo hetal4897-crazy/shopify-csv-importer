@@ -22,7 +22,7 @@ Upload
    <label class="form-label mt-10" style="margin-top:20px" for="csv_file">File</label>
     <div class="input-group">
         
-        <input type="file" class="form-control" name="csv_file" id="csv_file">
+        <input type="file" class="form-control" accept=".csv" name="csv_file" id="csv_file">
     </div>
   <div class="input-group" style="margin-top:20px">
   <input type="submit" value="Submit"  class="btn btn-primary" name="submit">
