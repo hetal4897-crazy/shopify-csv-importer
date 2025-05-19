@@ -90,7 +90,7 @@ class ImportProductToShopify implements ShouldQueue
             ]);
            
            
-                $collectionGID = 'gid://shopify/Collection/505879331132';
+                $collectionGID = env('SHOPIFY_COLLECTION_ID');
                 dispatch(new AddProductToCollection($this->product, $collectionGID));
                 dispatch(new ProductCreateMedia($this->product));
             
