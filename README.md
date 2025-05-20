@@ -2,9 +2,9 @@
 
 1. clone this code 
 
-2. run composer update
+2. run composer update 
 
-3. change SHOPIFY_API_URL,SHOPIFY_ACCESS_TOKEN,SHOPIFY_COLLECTION_ID in .env file and also change your database creadential
+3. change SHOPIFY_API_URL,SHOPIFY_ACCESS_TOKEN,SHOPIFY_COLLECTION_ID in .env file and also change your database creadential and run php artisan migrate
 
 4. run url/public/upload here upload file
 
